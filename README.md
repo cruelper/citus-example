@@ -10,3 +10,5 @@
 ![image](https://user-images.githubusercontent.com/93701808/229870146-f84d88e5-28d5-4e14-a5a4-ec73b386a36a.png)
 
 ![image](https://user-images.githubusercontent.com/93701808/229870290-c986a936-7217-49a1-a2e5-4c7692c9426f.png)
+
+Для запуска: docker-compose -p citus up --scale worker=2
